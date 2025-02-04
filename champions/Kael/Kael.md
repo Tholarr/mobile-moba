@@ -1,6 +1,7 @@
 # KAEL
 
 ## Class
+
 Fighter
 
 ## Position
@@ -11,18 +12,17 @@ Fighter
 
 # Abilities
 
-Mana ?
+- Mana ?
 
-Mélée
-
-
-## Passif
-
-Après 3 attaques ou comptétences sur un même ennemi, applique une marque qui réduit son armure et sa résistance magique.
+- Mélée
 
 ## Auto
 
 Frappe avec son épée.
+
+## Passif
+
+Après 3 attaques ou comptétences sur un même ennemi, applique une marque qui réduit son armure et sa résistance magique.
 
 ## Compétence 1 - Lame percante
 
